@@ -10,3 +10,5 @@ I'm interested in
 - coding
 - design
 - nature
+
+![profile picture](20220718_171015_s.jpg)
