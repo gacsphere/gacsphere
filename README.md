@@ -1,6 +1,6 @@
 # Welcome visitors!
 
-My name is Gesa and I'm a web development student at neuefische. 
+My name is Gesa and I'm a communication designer from germany. Currently I'm a web development student at neuefische. 
 
 
 ### Future skills
