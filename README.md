@@ -1,6 +1,6 @@
-# Welcome visitors!
+# Hello everybody!
 
-My name is Gesa and I'm a communication designer from germany, ready to code.
+Fascinated by the possibility of creating something new and, above all, something useful out of nothing, I continue to pursue this idea with the aim of creating products that inspire their users.
 
 
 ### Skills
