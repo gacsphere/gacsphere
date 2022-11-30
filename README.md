@@ -3,8 +3,8 @@
 My name is Gesa and I'm a communication designer from germany. Currently I'm a web development student at neuefische. 
 
 
-### Future skills
-`HTML` `CSS` `JavaScript` `React` `MongoDB` `Node.js` `Git`
+### Skills
+`HTML` `CSS` `JavaScript` `React` `Next.js` `styled-components` `Node.js` `Git`
 
 
 ### Things I like
@@ -16,7 +16,8 @@ My name is Gesa and I'm a communication designer from germany. Currently I'm a w
 
 ### I'm interested in
 - coding
-- design
 - nature
+- design
+
 
 ![sunset](20220805_214905_b.jpg)
