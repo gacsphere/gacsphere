@@ -6,6 +6,7 @@ Fascinated by the possibility of creating something new and, above all, somethin
 ### Skills
 `HTML` `CSS` `JavaScript` `React` `Next.js` `styled-components` `Node.js` `Git`
 
+
 ![Codelines](https://user-images.githubusercontent.com/109087424/210799626-977252de-f3ca-4e18-9b31-a6958aba7ff8.jpg)
 
 
@@ -20,6 +21,3 @@ Fascinated by the possibility of creating something new and, above all, somethin
 - coding
 - nature
 - design
-
-
-
